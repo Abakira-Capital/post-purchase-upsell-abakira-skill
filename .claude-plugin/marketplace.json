@@ -1,0 +1,15 @@
+{
+  "name": "abakira",
+  "description": "Plugins published by Abakira for merchants who use its Shopify apps.",
+  "owner": {
+    "name": "Abakira",
+    "email": "support@abakira.com"
+  },
+  "plugins": [
+    {
+      "name": "post-purchase-upsell-abakira",
+      "source": "./",
+      "description": "Merchant assistant for the Post Purchase Upsell Abakira Shopify app."
+    }
+  ]
+}

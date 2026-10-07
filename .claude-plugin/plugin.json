@@ -1,0 +1,18 @@
+{
+  "name": "post-purchase-upsell-abakira",
+  "displayName": "Post Purchase Upsell Abakira",
+  "version": "1.0.0",
+  "description": "Merchant assistant for the Post Purchase Upsell Abakira Shopify app: exact click paths in its admin, help when nothing shows up, and post-checkout offers planned from your own sales data. Reads nothing from your store and changes nothing.",
+  "author": {
+    "name": "Abakira",
+    "email": "support@abakira.com",
+    "url": "https://post-purchase-upsell.abakira.com/skill"
+  },
+  "homepage": "https://post-purchase-upsell.abakira.com/skill",
+  "repository": "https://github.com/Abakira-Capital/post-purchase-upsell-abakira-skill",
+  "license": "LicenseRef-Abakira-Proprietary",
+  "keywords": ["shopify", "post-purchase", "upsell", "thank-you page", "ecommerce", "checkout"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://post-purchase-upsell.abakira.com/skill",
+  "privacyPolicyUrl": "https://post-purchase-upsell.abakira.com/privacy"
+}

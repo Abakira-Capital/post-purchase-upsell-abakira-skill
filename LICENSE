@@ -1,0 +1,25 @@
+Abakira Proprietary License (LicenseRef-Abakira-Proprietary)
+
+Copyright (c) 2026 Abakira. All rights reserved.
+
+This repository contains the merchant assistant skill for the Shopify app
+"Post Purchase Upsell Abakira" (the "Skill").
+
+You may, free of charge:
+
+  - install and use the Skill in any AI assistant (Claude, ChatGPT or other),
+    for yourself or for the stores you run or manage;
+  - copy it for that purpose, including into your own private plugin or skill
+    settings.
+
+You may not, without written permission from Abakira:
+
+  - publish, sell or redistribute the Skill, modified or not, as a standalone
+    product or as part of another product;
+  - present a modified version as published or endorsed by Abakira.
+
+The Skill is provided "as is", without warranty of any kind. Abakira is not
+liable for any damage arising from its use. It gives instructions only; every
+change to a store is made by the merchant.
+
+Contact: support@abakira.com
